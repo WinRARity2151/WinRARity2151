@@ -5,9 +5,9 @@
 - 💻 Увлеченный программист, использующий Git в различных проектах.
 - 🌐 Открыт для сотрудничества. Давайте создавать что-то интересное вместе!
 
-<div align="center">
-
 ## Навыки и технологии
+
+<div align="center">
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="SQL" src="https://img.shields.io/badge/sql-%230074C4.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
